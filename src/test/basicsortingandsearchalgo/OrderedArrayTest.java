@@ -1,4 +1,4 @@
-package BasicSortingAndSearchAlgo;
+package basicsortingandsearchalgo;
 
 public class OrderedArrayTest {
 }

@@ -1,4 +1,4 @@
-package src.main.java.BasicSortingAndSearchAlgo;
+package src.main.java.basicsortingandsearchalgo;
 
 public class SelectionSorter<T> {
 

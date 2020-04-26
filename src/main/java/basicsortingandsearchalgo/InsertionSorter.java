@@ -1,4 +1,4 @@
-package src.main.java.BasicSortingAndSearchAlgo;
+package src.main.java.basicsortingandsearchalgo;
 
 import java.util.Arrays;
 
